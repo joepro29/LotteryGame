@@ -1,0 +1,2 @@
+# LotteryGame
+Lottery Using Strings 
